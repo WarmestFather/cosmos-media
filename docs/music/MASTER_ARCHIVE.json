@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "release": {
+    "repository": "WarmestFather/cosmos-media",
+    "tag": "music-masters",
+    "url": "https://github.com/WarmestFather/cosmos-media/releases/tag/music-masters"
+  },
+  "integrityPolicy": "Release assets are append-only. Never replace or delete an asset with a recorded filename. Verify byteSize and sha256 before use.",
+  "assets": [
+    {
+      "filename": "a-little-time-to-kill.wav",
+      "byteSize": 54388240,
+      "sha256": "1b98bff991894827d502cb91390be817e2babdd1e05644b6a3ba4235d5f0e447",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/a-little-time-to-kill.wav"
+    },
+    {
+      "filename": "children-of-the-canopy.wav",
+      "byteSize": 61714960,
+      "sha256": "e170d462e44071eb80c4a5953facd5f32597de2a92468ce8dd26c34fe92d612e",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/children-of-the-canopy.wav"
+    },
+    {
+      "filename": "downstairs-is-louder.wav",
+      "byteSize": 43866640,
+      "sha256": "5828704d67833d1e51a8cf9940f2c2c207a6f5a9df2503c93c4453a35bec5293",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/downstairs-is-louder.wav"
+    },
+    {
+      "filename": "everything-is-growing.wav",
+      "byteSize": 72428560,
+      "sha256": "cf8049f3e074137063eca727dcc3cd99ecc87919ac5ba7f79662745d0399ab3c",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/everything-is-growing.wav"
+    },
+    {
+      "filename": "iron-in-the-dust.wav",
+      "byteSize": 54672402,
+      "sha256": "b0930406c223993b08c0c83742a59dcf3e6ffdb6994ce934fe1aa10437259650",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/iron-in-the-dust.wav"
+    },
+    {
+      "filename": "nobody-sleeps-in-neo-york.wav",
+      "byteSize": 53735442,
+      "sha256": "6d2c90faf080d8a2c5f5ac9c162bdba7c4ea92580ceb9aba630b4e2a463db9ba",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/nobody-sleeps-in-neo-york.wav"
+    },
+    {
+      "filename": "reach-out.wav",
+      "byteSize": 38406160,
+      "sha256": "ade0f29b7f84bf6240f47ec938b420f81c5337fed6218ab39d11c877d2646beb",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/reach-out.wav"
+    },
+    {
+      "filename": "red-sand-lullaby.wav",
+      "byteSize": 58312720,
+      "sha256": "45e844639f79d85f799a3af3804ea069dd13d2995412643aab80a5485351da1c",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/red-sand-lullaby.wav"
+    },
+    {
+      "filename": "redline-no-signal.wav",
+      "byteSize": 38936080,
+      "sha256": "5ae28036c2807431c439d84f2eea89f300f66597acca94106a99b90302946ab0",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/redline-no-signal.wav"
+    },
+    {
+      "filename": "terms-and-conditions-apply.wav",
+      "byteSize": 51393042,
+      "sha256": "4e77483d27eae92923b04adc5ac740e644946f99ee8ea42d4b5c8e813d208330",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/terms-and-conditions-apply.wav"
+    },
+    {
+      "filename": "the-devil-takes-his-cut.wav",
+      "byteSize": 45855762,
+      "sha256": "e7d9dacfae25386be6b76d8cb0036845dd4e559c93a204da90fecc72803edcde",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/the-devil-takes-his-cut.wav"
+    },
+    {
+      "filename": "the-jungle-has-a-pulse.wav",
+      "byteSize": 59149840,
+      "sha256": "ca980230d486ace184f989d4b7f09a2f0a60d0370f317611d45bcfc1a70ba646",
+      "url": "https://github.com/WarmestFather/cosmos-media/releases/download/music-masters/the-jungle-has-a-pulse.wav"
+    }
+  ]
+}

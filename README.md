@@ -12,6 +12,8 @@ The CosmOS develops music as part of its worldbuilding: every album is grounded 
 
 **Templates and registries:** [Album template](docs/music/templates/ALBUM.md), [track template](docs/music/templates/TRACK.md), [decisions](docs/music/DECISIONS.md), [motifs](docs/music/MOTIFS.md).
 
+**Master archive integrity:** [Master archive manifest](docs/music/MASTER_ARCHIVE.json) — versioned filenames, byte sizes, SHA-256 digests and download URLs for the append-only `music-masters` release.
+
 **First album plan:** [Avaloria — Volume I: Kingshelm City](docs/music/albums/AVALORIA_KINGSHELM.md) — nine planned location cues beginning with the harbor and ending with departure into the wilds.
 
 ### Standard workflow
