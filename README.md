@@ -8,6 +8,10 @@ The CosmOS develops music as part of its worldbuilding: every album is grounded 
 
 **Start here:** [Music Production Bible](docs/music/PRODUCTION_BIBLE.md) — creative principles, lore grounding, album/track brief standards, Suno prompt limits, iterative review, state definitions and decision tracking.
 
+**World and cultural identities:** [Music world index](docs/music/WORLDS.md) — provisional identity sheets for Avaloria, Neo York, Pandora, Eden, Voidway, The Terminus, Kidlandia, and Retrolandia/Memelandia.
+
+**Templates and registries:** [Album template](docs/music/templates/ALBUM.md), [track template](docs/music/templates/TRACK.md), [decisions](docs/music/DECISIONS.md), [motifs](docs/music/MOTIFS.md).
+
 **First album plan:** [Avaloria — Volume I: Kingshelm City](docs/music/albums/AVALORIA_KINGSHELM.md) — nine planned location cues beginning with the harbor and ending with departure into the wilds.
 
 ### Standard workflow
