@@ -108,6 +108,10 @@ Register any recurring musical motif with its intended meaning, source track, la
 
 A track is complete only when its lore basis, intended role, distinct musical voice, arrangement, real audition, album fit and version record are sound. Before implementation, verify asset format, naming, loudness/transition behavior and actual in-game suitability.
 
+## Music documentation hierarchy
+
+The [world index](WORLDS.md) links provisional world-level identity sheets. Each world owns cross-album culture and musical alignments; album sheets document a specific region, tracklist and musical voice; track records document prompts, auditions, versions and integration. Use the [album template](templates/ALBUM.md), [track template](templates/TRACK.md), [global decision registry](DECISIONS.md), and [motif registry](MOTIFS.md). Do not invent audio assets, approvals or motifs.
+
 ## Current programme
 
 Start with the Avaloria story sequence. See [Avaloria — Kingshelm album plan](albums/AVALORIA_KINGSHELM.md) for the first planned nine-track city album.
