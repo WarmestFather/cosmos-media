@@ -14,7 +14,7 @@ The VR story opens in the prosperous Southern Province capital of Kingshelm, rul
 
 | # | Working title | Location / role | Direction | Status |
 |---|---|---|---|---|
-| 01 | A Kingdom Upon the Sea | Harbor / arrival | Sunlit orchestral welcome; gentle strings, harp, woodwinds, distant horns | Proposed |
+| 01 | A Kingdom Upon the Sea | Harbor / place identity | Gentle maritime orchestral ambience; rolling strings, woodwinds, low horns and subtle harbor character | Proposed |
 | 02 | A Thousand Little Fortunes | Market / daily life | Busy but unobtrusive plucked strings, dulcimer and woodwinds; **not** tavern dance | Proposed |
 | 03 | The Knightsfield Crown | Royalty | Restrained noble brass, strings, ceremony and concealed anxiety | Proposed |
 | 04 | Beneath the Crown | Prison | Sparse cello, low drone, cold stone resonance, silence | Proposed |
@@ -25,6 +25,10 @@ The VR story opens in the prosperous Southern Province capital of Kingshelm, rul
 | 09 | Beyond the Greenwood | City departure / journey | Hopeful, spacious orchestral pulse and wider adventure | Concept established; audio approval unverified |
 
 All names, tempos and instrumental palettes are working proposals until listening reviews confirm them.
+
+## Harbor track alignment
+
+**A Kingdom Upon the Sea** is persistent location underscore, not an arrival cue. Convey maritime life, travel, trade and a thriving fantasy harbor, with gentle tidal motion and understated melodic phrases. It must suit both first visits and repeated exploration. The story arrival and sudden arrest may use separate event cues and transitions.
 
 ## Album-level production requirements
 
